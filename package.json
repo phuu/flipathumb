@@ -1,15 +1,19 @@
 {
   "name": "flipathumb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
-  "main": "auther.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test",
+    "start": "nodemon start.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "minimist": "^0.2.0",
     "oauth": "^0.9.12"
+  },
+  "devDependencies": {
+    "tap": "^0.4.11"
   }
 }
