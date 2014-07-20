@@ -1,0 +1,15 @@
+{
+  "name": "flipathumb",
+  "version": "0.0.0",
+  "description": "",
+  "main": "auther.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^0.2.0",
+    "oauth": "^0.9.12"
+  }
+}
